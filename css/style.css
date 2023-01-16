@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a:link,
+a:visited,
+a:active {
+    background-color: greenyellow;
+    text-decoration-line: none;
+    color: #081fd3
+}
+
+a:hover {
+    font-family: Luminari, cursive;
+    font-weight: 900;
+    background-color: red;
+    color: #317293;
+}
+
+.homepage h1 {
+    background-color: hotpink;
+    color: white;
+    font-size: 72px;
+}
+
+.ddj {
+    font-family: Garamond, Georgia, serif;
+}
+
+.tbk {
+    font-family: 'Lucida Handwritting', cursive;
+}
+
+.jjm {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ddj h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #f47004;
+    font-size: 48px;
+}
